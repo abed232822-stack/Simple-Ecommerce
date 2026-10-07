@@ -1,0 +1,1 @@
+<button type="submit" class="py-3 px-7 bg-[#db4444] text-white rounded-lg hover:cursor-pointer flex-1">{{ $slot }}</button>
